@@ -1,0 +1,6 @@
+version: '3.3'
+services:  
+  frontend:
+    image: wyh0324/f
+    ports:
+      - "8081:80"
