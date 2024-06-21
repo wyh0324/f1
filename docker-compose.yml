@@ -1,6 +1,6 @@
 version: '3.3'
 services:  
   frontend:
-    image: wyh0324/f
+    image: wyh0324/f:latest
     ports:
       - "8081:80"
